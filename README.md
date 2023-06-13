@@ -60,6 +60,7 @@ GRAPH:
 
 DIAGRAM:
 
+![image](https://github.com/NivethaKumar30/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/119559844/16481153-c53e-4a04-8a50-6dca1b5883de)
 
 
 ### Name:NIVETHA K 
